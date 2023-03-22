@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LibraryBookApp
+
+  Created by 城龍太朗 on 2023/03/22.
+  
+*/
+
+"screen_mylibrary" = "MyLibrary";
+"screen_search" = "登録";
+"screen_howmany" = "実績";
